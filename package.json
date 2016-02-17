@@ -1,0 +1,17 @@
+{
+  "name": "cl-sensor-node-kb",
+  "version": "1.0.0",
+  "description": "Parses data from a sensor into csv, proprietary based on structure of data.",
+  "main": "server.js",
+  "author": "kevbost.github.io",
+  "devDependencies": {
+    "cheerio": "latest",
+    "cron": "latest",
+    "es6-promise": "latest",
+    "express": "latest",
+    "google-spreadsheet": "^1.1.4",
+    "moment": "latest",
+    "prepend-file": "latest",
+    "request": "latest"
+  }
+}
